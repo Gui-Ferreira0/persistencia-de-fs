@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "O senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "ano": 1954,
+    "lido": true
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Ficção científica",
+    "ano": 1948,
+    "lido": false
+  },
+  {
+    "titulo": "sou um rio",
+    "autor": "Mauricio de Souza",
+    "ano": 2021,
+    "lido": false
+  }
+]
